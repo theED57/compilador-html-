@@ -1,0 +1,6 @@
+pagina {
+    titulo "COMPILADOR"
+    encabezado "Bienvenidos a MI COMPILADOR"
+    parrafo "Este compilador fue creado por edwin pertuz , para la clase de compiladores como preoyecto final."
+    boton "Ingresar"
+}
